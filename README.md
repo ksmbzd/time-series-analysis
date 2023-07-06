@@ -10,7 +10,3 @@ This project focuses on the detection of credit card fraud using various heurist
 - Abhinandan Aryal
 - Younes Chaik
 
-
-
-## Dataset
-The dataset used for this project can be accessed from the following link: [Credit Card Fraud Dataset](../data/creditcard.csv)
