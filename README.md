@@ -41,3 +41,8 @@ All these methods are applied on each of the 'V' columns (V1 to V5) and the perf
 ## Dependencies
 
 - Python libraries: pandas, numpy, matplotlib, seaborn, sklearn, scipy
+
+## References
+1. Chandola, V., Banerjee, A., & Kumar, V. (2009). Anomaly detection: A survey. ACM Computing Surveys (CSUR), 41(3), 1-58.
+
+2. Aggarwal, C. C. (2013). Outlier analysis. Springer Science & Business Media.
