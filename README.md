@@ -33,6 +33,7 @@ Outliers, or anomalies, are identified using several methods, including:
 2. **Z-score Method**: It transforms the data into a standard normal distribution, then identifies points that deviate from the mean by more than a certain number of standard deviations as outliers.
 
 3. **Percentile Method**: It defines a lower and an upper threshold as percentiles of the data distribution and identifies points outside these thresholds as outliers.
+4. **Anomaly Detection Using Local Outlier Factor for Features V1 to V5.
 
 All these methods are applied on each of the 'V' columns (V1 to V5) and the performance metrics (precision, recall, F1-score, and accuracy) are calculated. The results are visualized to better understand the anomaly detection performance of each method.
 
